@@ -1,3 +1,5 @@
 # Dr. Dice RPG System
 
-*A fork of the Pandemonium Dice System made by Pao https://github.com/ZioPao/PandemoniumDiceSystem for the Dr. Dice RPG System*
+![poster](poster.png "poster")
+
+*A fork of Pao's [Pandemonium Dice System](https://github.com/ZioPao/PandemoniumDiceSystem) made by Oz for the Dr. Dice RPG System*
