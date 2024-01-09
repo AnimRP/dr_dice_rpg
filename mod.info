@@ -1,0 +1,9 @@
+id=GenericDiceSystem
+name=Generic Dice System
+description=A fork of PandemoniumRP Dice System made for Generic RP
+poster=poster.png
+authors=Pao, Oz
+icon=icon.png
+tags=Build 41
+versionMin=41.0
+modversion=1.3.4
