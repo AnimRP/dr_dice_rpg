@@ -1,4 +1,4 @@
-DICE_SYSTEM_MOD_STRING = "GenericDiceSystem"
+DICE_SYSTEM_MOD_STRING = "DrDiceDiceSystem"
 PLAYER_DICE_VALUES = {
     STATUS_EFFECTS = { "Stable", "Wounded", "Bleeding", "Charmed", "OnFire", "Prone", "Unconscious" },
     OCCUPATIONS = {
@@ -10,14 +10,14 @@ PLAYER_DICE_VALUES = {
         -- "Academic", "Follower" 
     },
 
-    SKILLS = {"Strength", "Dexterity", "Endurance", "Intelligence", "Education", "Social"},
+    SKILLS = {"Strength", "Dexterity", "Endurance", "Instinct", "Cunning", "Social"},
 
     SKILL_DESCRIPTORS = {
         Strength = {"Pathetic", "Feeble", "Weak", "", "Muscular", "Huge", "Herculean"},
         Dexterity = { "Sloth Like", "Slow", "Clumsy", "", "Nimble", "Agile", "Acrobatic"},
         Endurance = {"Bedridden", "Frail", "Weak", "", "Perfect Health", "Indefatigable", "Ironclad"},
-        Intelligence = {"Donkey Brained", "Imbecilic", "Slow", "", "Perceptive", "Brilliant", "How bout dem Apples" },
-        Education = {"Illiterate", "Dropout", "Barely Passed", "", "Associate's Degree", "Bachelor's Degree", "Graduate Scholar"},
+        Instinct = {"Donkey Brained", "Imbecilic", "Slow", "", "Perceptive", "Brilliant", "How bout dem Apples" },
+        Cunning = {"Illiterate", "Dropout", "Barely Passed", "", "Associate's Degree", "Bachelor's Degree", "Graduate Scholar"},
         Social = {"Wet Sack of Gravel", "Unbearable", "Awkward", "", "Charming", "Magnetic", "Je Ne Sais Quoi" }
     },
 
@@ -29,7 +29,7 @@ PLAYER_DICE_VALUES = {
     -- Social Standing (Soc): A character’s place in society.
 
     DEFAULT_HEALTH = 2,
-    DEFAULT_MOVEMENT = 6,
+    DEFAULT_MOVEMENT = 8,
 
     MAX_ALLOCATED_POINTS = 18,
     MAX_PER_SKILL_ALLOCATED_POINTS = 18,

@@ -2,7 +2,7 @@
 
 -- TODO Status effects of already logged in players do not show up
 
-local UPDATE_DELAY = SandboxVars.GenericDiceSystem.DelayUpdateStatusEffects
+local UPDATE_DELAY = SandboxVars.DrDiceSystem.DelayUpdateStatusEffects
 
 -----------------
 

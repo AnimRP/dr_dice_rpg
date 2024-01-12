@@ -23,8 +23,8 @@ IG_UI_EN = {
     IGUI_Skill_Strength = "Strength",
     IGUI_Skill_Dexterity = "Dexterity",
     IGUI_Skill_Endurance = "Endurance",
-    IGUI_Skill_Intelligence = "Intelligence",
-    IGUI_Skill_Education = "Education",
+    IGUI_Skill_Instinct = "Instinct",
+    IGUI_Skill_Cunning = "Cunning",
     IGUI_Skill_Social = "Social",
 
     IGUI_Dice_Save = "Save",

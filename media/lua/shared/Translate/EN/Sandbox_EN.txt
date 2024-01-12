@@ -1,7 +1,7 @@
 Sandbox_EN = {
-    Sandbox_GenericDiceSystem = "Generic RP Dice System",
+    Sandbox_DrDiceSystem = "Dr. Dice RPG System",
 
-    Sandbox_GenericDiceSystem_ShowStatusEffects = "Show Status Effects",
-    Sandbox_GenericDiceSystem_DelayUpdateStatusEffects = "Delay between status effects updates",
-    Sandbox_GenericDiceSystem_RenderDistanceStatusEffects = "Status Effects Render Distance",
+    Sandbox_DrDiceSystem_ShowStatusEffects = "Show Status Effects",
+    Sandbox_DrDiceSystem_DelayUpdateStatusEffects = "Delay between status effects updates",
+    Sandbox_DrDiceSystem_RenderDistanceStatusEffects = "Status Effects Render Distance",
 }

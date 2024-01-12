@@ -23,7 +23,7 @@ end
 -----------------------------
 
 if ModOptions and ModOptions.getInstance then
-    local modOptions = ModOptions:getInstance(OPTIONS, DICE_SYSTEM_MOD_STRING, "Generic RP Dice System")
+    local modOptions = ModOptions:getInstance(OPTIONS, DICE_SYSTEM_MOD_STRING, "Dr. Dice RPG System")
 
     local enableColorBlind = modOptions:getData("enableColorBlind")
     enableColorBlind.name = "Colorblind mode"
